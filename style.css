@@ -1,0 +1,15 @@
+#copy_right_footer
+{
+    color: white;
+    font-size: 30px;
+}
+
+button
+{
+    border-radius: 20px;
+}
+
+#canvas
+{
+    border: 5px 5px 5px solid dodgerblue;
+}
